@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "testfile",
+      "name": "BasePkg",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/EdinKamber/cb-index/main/packages/testfile.txt",
+      "url": "https://raw.githubusercontent.com/EdinKamber/cb-index/main/packages/pkg.json",
       "checksum": "sha256-abc123..."
     },
   ]
