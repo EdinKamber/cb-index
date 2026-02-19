@@ -1,0 +1,15 @@
+{
+  "name": "TestCheat",
+  "version": "1.0.0",
+  "compiler": "g++",
+  "packages": [
+    { "name": "TestPkg"}
+  ],
+  "output_name": "cheat.dll",
+  "files": [
+    "main.cpp",
+    "offsets.cpp",
+    "utils.cpp"
+  ],
+  "flags": "-shared -static-libgcc -static-libstdc++"
+}
