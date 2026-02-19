@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "testfile",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/EdinKamber/cb-index/main/packages/testfile.txt",
+      "checksum": "sha256-abc123..."
+    },
+  ]
+}
